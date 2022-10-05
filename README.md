@@ -7,6 +7,8 @@ Personal site on Gatsby at https://www.gatsbyjs.com/dashboard/organization/66207
 
 See also "Modular: The Web's New Architecture: (And How It's Changing Online Business)" at https://www.amazon.com/Modular-Architecture-Changing-Online-Business-ebook/dp/B0BFFBFDN1
 
+Based on "Connecting your Gatsby App to Strapi" at https://www.youtube.com/watch?v=A9-v7HrnctA , related to https://github.com/vanHeemstraSystems/strapi-headless-cms-headstart
+
 ## 100 - Introduction
 
 For the first time since the beginning of the web, more than 25 years ago, we're seeing a major shift in how people build content websites. More and more companies are shifting from traditional monolith CMSs like Drupal or WordPress to the Modular CMS architecture.
